@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2025-03-20T11:41:26Z
+N;CHARSET=utf-8:Carrus;Gianluca;;;
+FN;CHARSET=utf-8:Carrus Gianluca
+ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
+ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
+TEL;TYPE=home:
+TEL;TYPE=work:0705505355
+TEL;TYPE=mobile:3920221986
+EMAIL;INTERNET:carrus.gianluca@gruppoacentro.it
+URL:https://gruppoacentro.it/
+URL;TYPE=Facebook:
+URL;TYPE=Linkedin:
+URL;TYPE=Instagram:
+URL;TYPE=Business Cardz:https://my.cardz.it/vbFzQ6Mzt3
+ORG;CHARSET=utf-8:ACENTRO
+TITLE;CHARSET=utf-8:consulente vendita
+NOTE;CHARSET=utf-8:
+END:VCARD
