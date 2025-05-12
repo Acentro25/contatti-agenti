@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2025-03-20T11:41:26Z
+N;CHARSET=utf-8:Pecco;Andrea;;;
+FN;CHARSET=utf-8:Pecco Andrea
+ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
+ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
+TEL;TYPE=home:
+TEL;TYPE=work:0705505354
+TEL;TYPE=mobile:3357633719
+EMAIL;INTERNET:pecco.andrea@gruppoacentro.it
+URL:https://gruppoacentro.it/
+URL;TYPE=Facebook:
+URL;TYPE=Linkedin:
+URL;TYPE=Instagram:
+URL;TYPE=Business Cardz:https://acentro25.github.io/contatti-agenti/pecco-andrea.html
+ORG;CHARSET=utf-8:ACENTRO
+TITLE;CHARSET=utf-8:Consulente vendita
+NOTE;CHARSET=utf-8:
+END:VCARD
