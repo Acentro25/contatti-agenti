@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+REV:2025-03-20T11:41:26Z
+N;CHARSET=utf-8:Piras;Massimiliano;;;
+FN;CHARSET=utf-8:Piras Massimiliano
+ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
+ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
+TEL;TYPE=home:
+TEL;TYPE=work:0705505284
+TEL;TYPE=mobile:
+EMAIL;INTERNET:piras.massimiliano@gruppoacentro.it
+URL:https://gruppoacentro.it/
+URL;TYPE=Facebook:
+URL;TYPE=Linkedin:
+URL;TYPE=Instagram:
+URL;TYPE=Business Cardz:https://acentro25.github.io/contatti-agenti/piras-massimiliano.html
+ORG;CHARSET=utf-8:ACENTRO
+TITLE;CHARSET=utf-8:IT
+NOTE;CHARSET=utf-8:
+END:VCARD
