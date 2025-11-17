@@ -1,20 +1,21 @@
 BEGIN:VCARD
 VERSION:3.0
 REV:2025-03-20T11:41:26Z
-N;CHARSET=utf-8:Barone;Francesco;;;
-FN;CHARSET=utf-8:Barone Francesco
+N;CHARSET=utf-8:Fodde;Enrico;;;
+FN;CHARSET=utf-8:Fodde Enrico
 ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
 ADR;WORK;POSTAL;CHARSET=utf-8:;;;;;;
 TEL;TYPE=home:
-TEL;TYPE=work:0705505268
-TEL;TYPE=mobile:3402424575
-EMAIL;INTERNET:barone.francesco@gruppoacentro.it
+TEL;TYPE=work:0705505280
+TEL;TYPE=mobile:+39336336233
+EMAIL;INTERNET:fodde.enrico@gruppoacentro.it
 URL:https://gruppoacentro.it/
 URL;TYPE=Facebook:
 URL;TYPE=Linkedin:
 URL;TYPE=Instagram:
-URL;TYPE=Business Cardz:https://acentro25.github.io/contatti-agenti/barone-francesco.html
+URL;TYPE=Business Cardz:https://acentro25.github.io/contatti-agenti/fodde-enrico.html
 ORG;CHARSET=utf-8:ACENTRO
-TITLE;CHARSET=utf-8:consulente vendita
+TITLE;CHARSET=utf-8:CEO ACENTRO SrL
 NOTE;CHARSET=utf-8:
 END:VCARD
+
